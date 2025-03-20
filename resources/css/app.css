@@ -1,0 +1,18 @@
+.nav
+{
+    background-color: #000000;
+}
+
+.fifty-chars {
+    width: 40ch;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.less-chars{
+    width: 30ch;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
